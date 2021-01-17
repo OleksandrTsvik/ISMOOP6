@@ -1,0 +1,10 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\bin\Debug\WinForms.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\bin\Debug\WinForms.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.FormStudents.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №12\OOP6\WinForms\obj\Debug\WinForms.pdb
